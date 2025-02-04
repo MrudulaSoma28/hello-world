@@ -1,0 +1,10 @@
+Hello, GitHub!
+
+This is my first GitHub repository, created as part of my lab assignment.
+I have learned how to:
+- Create a repository
+- Create a branch
+- Make changes and commit them
+- Open a pull request and merge changes
+
+Excited to explore more about GitHub and version control!
